@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Faster minecarts!",
+      "name": "Faster minecarts MVl",
+      "uuid":"664e5b35-d99a-437b-b61a-0297a398e230",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+    },
+    "modules":
+      [
+        {
+          "description": "Faster minecarts module!",
+            "type": "data",
+            "uuid": "eaa9506a-4a61-48ec-8ab7-15279c3728db",
+            "version": [1, 0, 0]
+        }
+      ],
+    "dependencies": [
+    ]
+  }
